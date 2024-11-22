@@ -16,4 +16,4 @@ This Python program translates all Excel files containing Japanese words in a sp
 1. **Python**: Ensure you have Python installed (preferably Python 3.8 or later).
 2. **Libraries**: Install the following Python libraries:
    - `openpyxl`: For reading and writing `.xlsx` files.
-   - `googletrans`: For translating Japanese to English.
+   - `deep-translator`: For translating Japanese to English.
